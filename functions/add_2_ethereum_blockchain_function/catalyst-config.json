@@ -1,0 +1,10 @@
+{
+	"deployment": {
+		"name": "add_2_ethereum_blockchain_function",
+		"stack": "node14",
+		"type": "basicio"
+	},
+	"execution": {
+		"main": "index.js"
+	}
+}

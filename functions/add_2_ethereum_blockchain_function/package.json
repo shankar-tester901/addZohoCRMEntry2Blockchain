@@ -1,0 +1,14 @@
+{
+    "name": "add_2_ethereum_blockchain_function",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "shankarr+1003@zohocorp.com",
+    "dependencies": {
+        "axios": "^0.25.0",
+        "crypto-js": "^4.1.1",
+        "truffle-contract": "^4.0.31",
+        "truffle-hdwallet-provider": "^1.0.17",
+        "web3": "^1.7.0",
+        "zcatalyst-sdk-node": "latest"
+    }
+}
